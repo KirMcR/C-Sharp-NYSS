@@ -1,0 +1,13 @@
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Lab111\Lab111\bin\Debug\netcoreapp3.1\Lab111.exe
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Lab111\Lab111\bin\Debug\netcoreapp3.1\Lab111.deps.json
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Lab111\Lab111\bin\Debug\netcoreapp3.1\Lab111.runtimeconfig.json
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Lab111\Lab111\bin\Debug\netcoreapp3.1\Lab111.runtimeconfig.dev.json
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Lab111\Lab111\bin\Debug\netcoreapp3.1\Lab111.dll
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Lab111\Lab111\bin\Debug\netcoreapp3.1\Lab111.pdb
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Lab111\Lab111\obj\Debug\netcoreapp3.1\Lab111.csprojAssemblyReference.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Lab111\Lab111\obj\Debug\netcoreapp3.1\Lab111.AssemblyInfoInputs.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Lab111\Lab111\obj\Debug\netcoreapp3.1\Lab111.AssemblyInfo.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Lab111\Lab111\obj\Debug\netcoreapp3.1\Lab111.csproj.CoreCompileInputs.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Lab111\Lab111\obj\Debug\netcoreapp3.1\Lab111.dll
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Lab111\Lab111\obj\Debug\netcoreapp3.1\Lab111.pdb
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Lab111\Lab111\obj\Debug\netcoreapp3.1\Lab111.genruntimeconfig.cache
