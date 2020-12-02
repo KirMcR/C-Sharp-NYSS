@@ -1,0 +1,7 @@
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\lab02-0.csprojAssemblyReference.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\Load_Poup.g.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\MainWindow.g.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\Renew.g.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\App.g.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\lab02-0_MarkupCompile.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\lab02-0_MarkupCompile.lref

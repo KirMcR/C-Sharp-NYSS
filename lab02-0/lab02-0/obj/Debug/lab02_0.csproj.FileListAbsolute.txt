@@ -1,0 +1,54 @@
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\Load_Poup.g.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\MainWindow.g.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\Renew.g.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\App.g.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\lab02-0_MarkupCompile.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\lab02-0_MarkupCompile.lref
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\bin\Debug\lab02-0.exe.config
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\bin\Debug\lab02-0.exe
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\bin\Debug\lab02-0.pdb
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\bin\Debug\ClosedXML.dll
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\bin\Debug\ExcelNumberFormat.dll
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\bin\Debug\System.IO.Packaging.dll
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\bin\Debug\ClosedXML.pdb
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\bin\Debug\ClosedXML.xml
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\bin\Debug\ExcelNumberFormat.xml
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\Load_Poup.baml
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\MainWindow.baml
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\Renew.baml
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\lab02-0.g.resources
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\lab02_0.Properties.Resources.resources
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\lab02_0.csproj.GenerateResource.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\lab02_0.csproj.CoreCompileInputs.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\lab02_0.csproj.CopyComplete
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\lab02-0.exe
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Moe\lab02-0\lab02-0\obj\Debug\lab02-0.pdb
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\bin\Debug\lab02-0.exe.config
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\bin\Debug\lab02-0.exe
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\bin\Debug\lab02-0.pdb
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\bin\Debug\ClosedXML.dll
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\bin\Debug\ExcelNumberFormat.dll
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\bin\Debug\System.IO.Packaging.dll
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\bin\Debug\ClosedXML.pdb
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\bin\Debug\ClosedXML.xml
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\bin\Debug\ExcelNumberFormat.xml
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\Load_Poup.g.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\MainWindow.g.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\Renew.g.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\App.g.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\lab02-0_MarkupCompile.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\lab02-0_MarkupCompile.lref
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\Load_Poup.baml
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\MainWindow.baml
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\Renew.baml
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\lab02-0.g.resources
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\lab02_0.Properties.Resources.resources
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\lab02_0.csproj.GenerateResource.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\lab02_0.csproj.CoreCompileInputs.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\lab02_0.csproj.CopyComplete
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\lab02-0.exe
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\Новая папка\lab02-0\lab02-0\obj\Debug\lab02-0.pdb
