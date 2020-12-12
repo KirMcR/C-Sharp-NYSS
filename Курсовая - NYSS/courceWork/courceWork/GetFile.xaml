@@ -1,0 +1,21 @@
+﻿<Window x:Class="courceWork.GetFile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:courceWork"
+        WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d"
+        Title="GetFile" Height="450" Width="800">
+    <Grid Background="#e0ffff">
+        <Button Content="Расшифровать" HorizontalAlignment="Left" FontSize="18" FontWeight="Bold" Height="105" Margin="637,304,0,0" VerticalAlignment="Top" Width="145" Background="#B22222" Click="Button_Click"/>
+        <Button Content="Открыть файл..." FontSize="16" FontWeight="Bold"  HorizontalAlignment="Left" Height="55" Margin="10,10,0,0" VerticalAlignment="Top" Width="165" Click="Button_Click_1"/>
+        <TextBox x:Name="text"  HorizontalAlignment="Left" Height="33" FontSize="20" Margin="190,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165"/>
+        <TextBlock HorizontalAlignment="Left" Height="26" Margin="190,6,0,0" TextWrapping="Wrap" Text="Введите ключ:" FontSize="16" FontWeight="Bold" VerticalAlignment="Top" Width="165"/>
+        <TextBlock x:Name="exc" HorizontalAlignment="Center" TextAlignment ="Center" Foreground="Red"  Height="71" Margin="86,148,104,0" TextWrapping="Wrap" FontSize="16" Text="" FontWeight="Bold" VerticalAlignment="Top" Width="602"/>
+        <TextBlock x:Name="result1" HorizontalAlignment="Left" FontSize="14" Height="302" Margin="26,97,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="606"/>
+        <Button x:Name="Wher" Content="Сохранить как .txt" FontSize="14" FontWeight="Bold"  HorizontalAlignment="Left" Height="105" Margin="637,10,0,0" VerticalAlignment="Top" Width="145" Click="WherSv"  Visibility="Hidden"/>
+        <Button Content="На главную" FontSize="16" FontWeight="Bold"  HorizontalAlignment="Left" Height="55" Margin="617,10,0,0" VerticalAlignment="Top" Width="165" Click="Button_main"/>
+
+    </Grid>
+</Window>

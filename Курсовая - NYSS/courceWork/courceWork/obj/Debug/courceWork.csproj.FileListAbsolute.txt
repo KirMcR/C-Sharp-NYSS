@@ -1,0 +1,17 @@
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\bin\Debug\courceWork.exe.config
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\bin\Debug\courceWork.exe
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\bin\Debug\courceWork.pdb
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\obj\Debug\courceWork.csprojAssemblyReference.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\obj\Debug\GetFile.g.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\obj\Debug\MainWindow.g.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\obj\Debug\App.g.cs
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\obj\Debug\courceWork_MarkupCompile.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\obj\Debug\courceWork_MarkupCompile.lref
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\obj\Debug\GetFile.baml
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\obj\Debug\MainWindow.baml
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\obj\Debug\courceWork.g.resources
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\obj\Debug\courceWork.Properties.Resources.resources
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\obj\Debug\courceWork.csproj.GenerateResource.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\obj\Debug\courceWork.csproj.CoreCompileInputs.cache
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\obj\Debug\courceWork.exe
+C:\Users\бродяга-симпотяга\Desktop\3курс\Лабы по курсу\cursach\mine\courceWork\courceWork\obj\Debug\courceWork.pdb
